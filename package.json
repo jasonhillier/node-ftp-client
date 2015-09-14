@@ -1,11 +1,11 @@
 {
     "name": "@paviasystems/ftp-client",
-    "version": "0.2.2",
+    "version": "0.2.4",
     "author": {
         "name": "Krzysztof Jakubik",
         "email": "krzysiek.jakubik@gmail.com"
     },
-    "description": "A wrapper for the node-ftp module",
+    "description": "A wrapper for the node-ftp module -BUG FIX fork",
     "main": "./lib/client",
     "engines": {
         "node": ">=0.8.0"
