@@ -1,5 +1,5 @@
 {
-    "name": "ftp-client",
+    "name": "@paviasystems/ftp-client",
     "version": "0.2.2",
     "author": {
         "name": "Krzysztof Jakubik",
